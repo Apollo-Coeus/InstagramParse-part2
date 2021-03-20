@@ -1,6 +1,6 @@
-# Project 3 - *Instagram*
+# Project 3 - *Parsetagram*
 
-**instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Parsetagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **5** hours spent in total
 
@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Apollo-Coeus/InstagramParse-part2/blob/master/Instagram%20parse%20.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
